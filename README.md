@@ -1,20 +1,20 @@
-# Hi there 👋 I'm Oratile
+# Hi there I'm Oratile
 
-## ☁️ Aspiring AWS Cloud Engineer
+## Aspiring AWS Cloud Engineer
 
 I'm currently completing a Cloud Engineering program and building real-world AWS projects to prepare for a Junior Cloud Engineer role.
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-* 🔧 Training Management System (AWS + Moodle)
-* ☁️ Volunteer Cloud Storage System
-* 🧪 AWS Hands-on Projects
+* Training Management System (AWS + Moodle)
+*  Volunteer Cloud Storage System
+*  AWS Hands-on Projects
 
 ---
 
-## ☁️ AWS Skills
+## AWS Skills
 
 * AWS S3
 * AWS EC2
@@ -25,7 +25,7 @@ I'm currently completing a Cloud Engineering program and building real-world AWS
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * AWS Cloud Practitioner
 * AWS Architecture
@@ -33,7 +33,7 @@ I'm currently completing a Cloud Engineering program and building real-world AWS
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 * Become Junior Cloud Engineer
 * Complete AWS Certification
@@ -41,13 +41,13 @@ I'm currently completing a Cloud Engineering program and building real-world AWS
 
 ---
 
-## 📍 Location
+## Location
 
 South Africa 🇿🇦
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 LinkedIn: Coming Soon
 GitHub Portfolio: https://github.com/oratile-cloud
