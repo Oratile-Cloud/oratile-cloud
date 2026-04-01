@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋 I'm Oratile
 
-<!--
-**Oratile-Cloud/oratile-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Aspiring AWS Cloud Engineer
 
-Here are some ideas to get you started:
+I'm currently completing a Cloud Engineering program and building real-world AWS projects to prepare for a Junior Cloud Engineer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+* 🔧 Training Management System (AWS + Moodle)
+* ☁️ Volunteer Cloud Storage System
+* 🧪 AWS Hands-on Projects
+
+---
+
+## ☁️ AWS Skills
+
+* AWS S3
+* AWS EC2
+* AWS IAM
+* AWS RDS
+* Cloud Networking
+* Linux
+
+---
+
+## 📚 Currently Learning
+
+* AWS Cloud Practitioner
+* AWS Architecture
+* Cloud Security
+
+---
+
+## 🎯 2026 Goals
+
+* Become Junior Cloud Engineer
+* Complete AWS Certification
+* Build 5 AWS Projects
+
+---
+
+## 📍 Location
+
+South Africa 🇿🇦
+
+---
+
+## 📊 GitHub Stats
+
+(Stats will appear automatically as you push projects)
+
+---
+
+## 🤝 Let's Connect
+
+LinkedIn: Coming Soon
+GitHub Portfolio: https://github.com/oratile-cloud
