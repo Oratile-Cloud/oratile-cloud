@@ -47,12 +47,6 @@ South Africa 🇿🇦
 
 ---
 
-## 📊 GitHub Stats
-
-(Stats will appear automatically as you push projects)
-
----
-
 ## 🤝 Let's Connect
 
 LinkedIn: Coming Soon
